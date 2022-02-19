@@ -10,7 +10,7 @@ https://docs.microsoft.com/ja-jp/powerapps/maker/data-platform/import-update-exp
 ## ご注意
 SharePoint をデータソースとしている箇所があります。
 インポート時に設定する必要がありますので、事前にSharePoint リストの作成をお願いします。
-作成方法はこちら
+作成方法はこちら <br>
 https://support.microsoft.com/ja-jp/office/%E3%83%AA%E3%82%B9%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B-0d397414-d95f-41eb-addd-5e6eff41b083
 
 SharePoint リストは以下の構成とします。
